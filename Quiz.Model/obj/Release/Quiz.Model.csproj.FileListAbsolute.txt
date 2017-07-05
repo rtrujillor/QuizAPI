@@ -1,0 +1,5 @@
+C:\Users\rtrujillor\development\cadhackathonsources\cadhackathonsources\src\Quiz\Quiz.Model\bin\Release\Quiz.Model.dll
+C:\Users\rtrujillor\development\cadhackathonsources\cadhackathonsources\src\Quiz\Quiz.Model\bin\Release\Quiz.Model.pdb
+C:\Users\rtrujillor\development\cadhackathonsources\cadhackathonsources\src\Quiz\Quiz.Model\obj\Release\Quiz.Model.csprojResolveAssemblyReference.cache
+C:\Users\rtrujillor\development\cadhackathonsources\cadhackathonsources\src\Quiz\Quiz.Model\obj\Release\Quiz.Model.dll
+C:\Users\rtrujillor\development\cadhackathonsources\cadhackathonsources\src\Quiz\Quiz.Model\obj\Release\Quiz.Model.pdb
